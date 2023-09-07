@@ -4,16 +4,16 @@
     "career": "Software Engineer",
     "birthDate": null,
     "gender": "Male",
-    "phone": "0964603264",
+    "phone": "+84964603264",
     "mail": "buiphuongaptutc@gmail.com",
     "address": "Hanoi, Vietnam",
     "github": "https://github.com/censodev",
     "linkedin": "https://www.linkedin.com/in/phuong-bui-b7410a239",
     "skills": {
-        "Languages": "Java, Javascript/Typescript, PHP, ...",
+        "Languages": "Java, Javascript/Typescript, ...",
         "Frameworks": "Spring, Angular, ...",
         "Dev/Ops tools": "Git, Maven, Docker, K8s, CI/CD, ...",
-        "Infrastructures": "Linux On-Premise, AWS Cloud",
+        "Infra/Platforms": "Linux On-Premise, AWS Cloud",
         "Databases": "MySQL, PostgreSQL, ...",
         "Foreign language": "English CEFR B2"
     },
@@ -89,26 +89,26 @@
     ],
     "projects": [
         {
-            "name": "N99.SH",
+            "name": "N99.MOESH",
             "startDtMo": 5,
             "startDtYr": 2022,
             "endDtMo": null,
             "endDtYr": null,
             "role": "Back-end Engineer, Team Leader",
             "roleDes": [
-                "Worked as a Back-end engineer in a team that mainly migrated some core services in that system from Servlet, Struts2 to Spring Boot for almost 1y. Re-engineering phase successfully went live in the 1st quarter of 2023 and the number of production issues came from my team is the lowest one among all the application teams.",
-                "After re-engineering phase, I was promoted to leader of that team and also take more responsibilities on managing and working together with other DBA, DevOps/Infra teams to maintaince and develop new features."
+                "Worked as a Back-end engineer in a team that mainly migrated some core services in that system from Servlet, Struts2 to Spring Boot for almost 1y. The re-engineering phase successfully went live in the 1st quarter of 2023 and the number of production issues came from my team is the lowest one among all the application teams.",
+                "After the re-engineering phase, I was promoted to leader of that team and also took more responsibilities on managing and working together with other DBA, DevOps/Infra teams to maintain and develop new features."
             ],
-            "des": "Client requested a re-engineering project for a system that manages student's data. The old system run on on-premise environment and was built with main tech stacks like JSP/Servlet, Struts2, Oracle, ... Now, client expect to migrate that system to AWS Cloud, also build a modern DevSecOps pipeline to deliver product and change tech stacks to Spring Framework, Spring Boot, Angular and PostgreSQL.",
+            "des": "Client requested a re-engineering project for a system that manages student data. The old system ran on on-premise environment and was built with main tech stacks like JSP/Servlet, Struts2, Oracle, ... Now, the client expects to migrate that system to AWS Cloud, and also build a modern DevSecOps pipeline to deliver products and migrate tech stacks to Spring, Angular, and PostgreSQL.",
             "market": "Singapore",
             "tech": [
-                "Spring",
+                "Spring (Boot, Web, Data JPA, Batch, ...)",
+                "MyBatis",
                 "JSP/Servlet",
                 "Strusts",
                 "PostgreSQL",
-                "Bamboo",
-                "K8s/EKS",
-                "AWS"
+                "Gitlab",
+                "AWS (SSM, EKS, RDS, S3, CloudWatch, ...)"
             ],
             "team": "5 members"
         },
@@ -121,7 +121,7 @@
             "role": "Back-end Engineer",
             "roleDes": [
                 "Maintain features (manual and scheduled archiving process)",
-                "Build CI/CD pipeline, containerize application, deploy application, operate servers"
+                "Build CI/CD pipeline, containerize application, deploy the application, operate servers"
             ],
             "des": "A system archives data from the agent systems which run on both on-premises and cloud to the central data warehouses",
             "market": "Taiwan",
@@ -144,8 +144,8 @@
             "endDtYr": 2021,
             "role": "Associate Solution Architect, Back-end Engineer",
             "roleDes": [
-                "Take part in designing system architecture on application layer",
-                "Integrate EPay services (payment gateway, wallet, notifying, SMS) in to application",
+                "Take part in designing system architecture on the application layer",
+                "Integrate EPay services (payment gateway, wallet, notifying, SMS) into application",
                 "Deploy and support system operating"
             ],
             "des": "Vaccine injection management system especially support for Covid-19 vaccination campaigns",
@@ -266,7 +266,7 @@
             "roleDes": [
                 "Develop features: chatbox and social network interactions using Firebase"
             ],
-            "des": "A private social network for company",
+            "des": "A private social network for the company",
             "market": "Vietnam",
             "tech": [
                 "Laravel",
@@ -285,7 +285,7 @@
             "endDtYr": 2021,
             "role": "Web Developer",
             "roleDes": [
-                "Work with designer to develop dynamic landing pages"
+                "Work with the UI/UX designers to develop dynamic landing pages"
             ],
             "des": "A series of landing pages running enrollment campaigns, advertising, IT courses, minigames and more",
             "market": "Vietnam",
