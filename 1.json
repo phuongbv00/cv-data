@@ -96,10 +96,10 @@
             "endDtYr": null,
             "role": "Back-end Engineer, Team Leader",
             "roleDes": [
-                "Worked as a Back-end engineer in a team that mainly migrated some core services in that system from Servlet, Struts2 to Spring Boot for almost 1y. The re-engineering phase successfully went live in the 1st quarter of 2023 and the number of production issues came from my team is the lowest one among all the application teams.",
-                "After the re-engineering phase, I was promoted to leader of that team and also took more responsibilities on managing and working together with other DBA, DevOps/Infra teams to maintain and develop new features."
+                "Worked as a Back-end engineer in a team that mainly migrated some core services in that system from Servlet, Struts2 to Spring Boot.",
+                "After the re-engineering phase, working as a Team Leader and take more responsibilities on managing and cooperating with other DBA, DevOps/Infra teams to maintain and develop new features."
             ],
-            "des": "Client requested a re-engineering project for a system that manages student data. The old system ran on on-premise environment and was built with main tech stacks like JSP/Servlet, Struts2, Oracle, ... Now, the client expects to migrate that system to AWS Cloud, and also build a modern DevSecOps pipeline to deliver products and migrate tech stacks to Spring, Angular, and PostgreSQL.",
+            "des": "Client requested a re-engineering project for a system that manages student data. The old system ran on On-premise environment and was built with main tech stacks like JSP/Servlet, Struts2, Oracle, ... Now, the client expects to migrate that system to AWS Cloud, and also build a modern DevSecOps pipeline to deliver products and migrate tech stacks to Spring, Angular, and PostgreSQL.",
             "market": "Singapore",
             "tech": [
                 "Spring (Boot, Web, Data JPA, Batch, ...)",
