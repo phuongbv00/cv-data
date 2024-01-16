@@ -257,27 +257,6 @@
             "team": "12 members"
         },
         {
-            "name": "MIRAI SOCIAL NETWORK",
-            "startDtMo": 6,
-            "startDtYr": 2019,
-            "endDtMo": 10,
-            "endDtYr": 2019,
-            "role": "Web Developer",
-            "roleDes": [
-                "Develop features: chatbox and social network interactions using Firebase"
-            ],
-            "des": "A private social network for the company",
-            "market": "Vietnam",
-            "tech": [
-                "Laravel",
-                "Angular",
-                "React Native",
-                "Firebase",
-                "MySQL"
-            ],
-            "team": "7 members"
-        },
-        {
             "name": "APTECH LANDING PAGES",
             "startDtMo": 9,
             "startDtYr": 2019,
