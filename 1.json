@@ -89,6 +89,30 @@
     ],
     "projects": [
         {
+            "name": "VTP CRM",
+            "startDtMo": 9,
+            "startDtYr": 2023,
+            "endDtMo": null,
+            "endDtYr": null,
+            "role": "Technical Consultant",
+            "roleDes": [
+                "Participate in consulting on system architecture design and writing acceptance documents (HLD, Sizing Estimation, Deployment Plan, HA Testing, ...)",
+                "Develop gateway service functions (routing, authentication, authorization).",
+                "Support on architecture implementation (K8s, PostgreSQL, Redis, Kafka).",
+                "Support production operation issues."
+            ],
+            "des": "An internal CRM system on logistics domain.",
+            "market": "Vietnam",
+            "tech": [
+                "Spring (Boot, Web, Data JPA, Batch, Gateway), Microservices",
+                "Angular, React Native",
+                "PostgreSQL, Pgpool-II",
+                "Redis, Kafka, ELK Stack",
+                "K8s"
+            ],
+            "team": "20 members"
+        },
+        {
             "name": "N99.MOESH",
             "startDtMo": 5,
             "startDtYr": 2022,
@@ -102,7 +126,7 @@
             "des": "Client requested a re-engineering project for a system that manages student data. The old system ran on On-premise environment and was built with main tech stacks like JSP/Servlet, Struts2, Oracle, ... Now, the client expects to migrate that system to AWS Cloud, and also build a modern DevSecOps pipeline to deliver products and migrate tech stacks to Spring, Angular, and PostgreSQL.",
             "market": "Singapore",
             "tech": [
-                "Spring (Boot, Web, Data JPA, Batch, ...)",
+                "Spring (Boot, Web, Data JPA, Batch)",
                 "MyBatis",
                 "JSP/Servlet",
                 "Strusts",
