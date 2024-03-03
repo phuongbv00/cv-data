@@ -104,7 +104,7 @@
             "des": "An internal CRM system on logistics domain.",
             "market": "Vietnam",
             "tech": [
-                "Spring (Boot, Web, Data JPA, Batch, Gateway), Microservices",
+                "Spring (Boot, Web, Data JPA, Security, Gateway), Microservices",
                 "Angular, React Native",
                 "PostgreSQL, Pgpool-II",
                 "Redis, Kafka, ELK Stack",
