@@ -113,7 +113,7 @@
             "team": "20 members"
         },
         {
-            "name": "N99.MOESH",
+            "name": "N99 MOESH",
             "startDtMo": 5,
             "startDtYr": 2022,
             "endDtMo": null,
@@ -147,7 +147,7 @@
                 "Maintain features (manual and scheduled archiving process)",
                 "Build CI/CD pipeline, containerize application, deploy the application, operate servers"
             ],
-            "des": "A system archives data from the agent systems which run on both on-premises and cloud to the central data warehouses",
+            "des": "A system archives data from the agent systems which run on both on-premises and cloud to the central data warehouses.",
             "market": "Taiwan",
             "tech": [
                 "Spring",
@@ -172,7 +172,7 @@
                 "Integrate EPay services (payment gateway, wallet, notifying, SMS) into application",
                 "Deploy and support system operating"
             ],
-            "des": "Vaccine injection management system especially support for Covid-19 vaccination campaigns",
+            "des": "Vaccine injection management system especially support for Covid-19 vaccination campaigns.",
             "market": "Vietnam",
             "tech": [
                 "Spring",
@@ -197,7 +197,7 @@
                 "Work with Google Map API in-depth to optimize map performance",
                 "Claim requirements of customers"
             ],
-            "des": "Monitor ship's voyage in seaports, manage dredgers plans,...",
+            "des": "Monitor ship's voyage in seaports, manage dredgers plans, ...",
             "market": "Vietnam",
             "tech": [
                 "Spring",
@@ -221,7 +221,7 @@
                 "Work with Websocket, Zalo API/Webhook, Kafka",
                 "Deploy and monitor Java services on Linux VM"
             ],
-            "des": "Internal application for telecom switchboard operators",
+            "des": "Internal application for telecom switchboard operators.",
             "market": "Vietnam",
             "tech": [
                 "Spring",
@@ -244,7 +244,7 @@
             "roleDes": [
                 "Work with the UI/UX designers to develop dynamic landing pages"
             ],
-            "des": "A series of landing pages running enrollment campaigns, advertising, IT courses, minigames and more",
+            "des": "A series of landing pages running enrollment campaigns, advertising, IT courses, minigames and more.",
             "market": "Vietnam",
             "tech": [
                 "PHP",
