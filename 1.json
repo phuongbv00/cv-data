@@ -137,7 +137,7 @@
             "team": "5 members"
         },
         {
-            "name": "SRMS DATA STORAGE",
+            "name": "SRMS DATA STORAGE MVP",
             "startDtMo": 12,
             "startDtYr": 2021,
             "endDtMo": 4,
@@ -164,7 +164,7 @@
             "name": "EVACCINE",
             "startDtMo": 6,
             "startDtYr": 2021,
-            "endDtMo": 10,
+            "endDtMo": 12,
             "endDtYr": 2021,
             "role": "Associate Solution Architect, Back-end Engineer",
             "roleDes": [
@@ -184,34 +184,10 @@
             "team": "20 members"
         },
         {
-            "name": "CALL CENTER LIBRARY",
-            "startDtMo": 8,
-            "startDtYr": 2021,
-            "endDtMo": 10,
-            "endDtYr": 2021,
-            "role": "Back-end Engineer, Team Leader",
-            "roleDes": [
-                "Build system infrastructure",
-                "Design system architecture",
-                "Manage efforts, tasks, members",
-                "Claim requirements of customers",
-                "Build Elasticsearch service for persisting and searching documents"
-            ],
-            "des": "CMS module for private training and public researching of a call center system",
-            "market": "Vietnam",
-            "tech": [
-                "Spring",
-                "Angular",
-                "Elasticsearch",
-                "Docker"
-            ],
-            "team": "3 members"
-        },
-        {
             "name": "AIS MONITOR",
             "startDtMo": 2,
             "startDtYr": 2021,
-            "endDtMo": 8,
+            "endDtMo": 10,
             "endDtYr": 2021,
             "role": "Full-stack Engineer",
             "roleDes": [
@@ -234,33 +210,11 @@
             "team": "5 members"
         },
         {
-            "name": "LANDHUB ESTATE",
-            "startDtMo": 10,
-            "startDtYr": 2020,
-            "endDtMo": 2,
-            "endDtYr": 2021,
-            "role": "Back-end Engineer",
-            "roleDes": [
-                "Develop modules: authorization, posts indexing and searching, email broadcasting...",
-                "Setup production deployment"
-            ],
-            "des": "A real estates portal",
-            "market": "Vietnam",
-            "tech": [
-                "Laravel",
-                "Angular",
-                "Elasticsearch",
-                "MySQL",
-                "Docker"
-            ],
-            "team": "11 members"
-        },
-        {
             "name": "ECONTACT 2.0",
             "startDtMo": 10,
             "startDtYr": 2019,
-            "endDtMo": 10,
-            "endDtYr": 2020,
+            "endDtMo": 2,
+            "endDtYr": 2021,
             "role": "Back-end Engineer",
             "roleDes": [
                 "Develop module Chat group & ticket statistics dashboard",
