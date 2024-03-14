@@ -13,9 +13,8 @@
         "Languages": "Java, Javascript/Typescript, ...",
         "Frameworks": "Spring, Angular, ...",
         "Dev/Ops tools": "Git, Maven, Docker, K8s, CI/CD, ...",
-        "Infra/Platforms": "Linux On-Premise, AWS Cloud",
-        "Databases": "MySQL, PostgreSQL, ...",
-        "Foreign language": "English CEFR B2"
+        "Infra/Platforms": "Linux, AWS",
+        "Databases": "MySQL, PostgreSQL"
     },
     "edu": [
         {
@@ -26,7 +25,7 @@
             "endDtMo": 7,
             "endDtYr": 2022,
             "degree": "Engineer's degree",
-            "grade": "3.53 GPA"
+            "grade": "Good"
         },
         {
             "school": "Aptech Aprotrain",
@@ -53,7 +52,7 @@
         {
             "title": "Web Developer",
             "empType": "Full-time",
-            "company": "Mirai Vietnam Software",
+            "company": "Miraisoft Vietnam",
             "startDtMo": 6,
             "startDtYr": 2019,
             "endDtMo": 10,
@@ -101,14 +100,14 @@
                 "Support on architecture implementation (K8s, PostgreSQL, Redis, Kafka).",
                 "Support production operation issues."
             ],
-            "des": "An internal CRM system on logistics domain.",
+            "des": "An internal CRM system of a delivery company.",
             "market": "Vietnam",
             "tech": [
-                "Spring (Boot, Web, Data JPA, Security, Gateway), Microservices",
+                "Spring, Microservices",
                 "Angular, React Native",
                 "PostgreSQL, Pgpool-II",
                 "Redis, Kafka, ELK Stack",
-                "K8s"
+                "Docker, K8s, Gitlab CI"
             ],
             "team": "20 members"
         },
@@ -118,21 +117,23 @@
             "startDtYr": 2022,
             "endDtMo": null,
             "endDtYr": null,
-            "role": "Back-end Engineer, Team Leader",
+            "role": "Full-stack Engineer, Team Leader",
             "roleDes": [
-                "Worked as a Back-end engineer in a team that mainly migrated some core services in that system from Servlet, Struts2 to Spring Boot.",
-                "After the re-engineering phase, working as a Team Leader and take more responsibilities on managing and cooperating with other DBA, DevOps/Infra teams to maintain and develop new features."
+                "Take part in the migration phase to migrate the old system to the new technologies stack.",
+                "Work on the service requests from the customer to deliver new features, enhancements, or resolve issues for the system.",
+                "Manage and coordinate service requests to team members, support and consult on task solutions."
             ],
-            "des": "Client requested a re-engineering project for a system that manages student data. The old system ran on On-premise environment and was built with main tech stacks like JSP/Servlet, Struts2, Oracle, ... Now, the client expects to migrate that system to AWS Cloud, and also build a modern DevSecOps pipeline to deliver products and migrate tech stacks to Spring, Angular, and PostgreSQL.",
+            "des": "A student data management system.",
             "market": "Singapore",
             "tech": [
-                "Spring (Boot, Web, Data JPA, Batch)",
+                "Spring, Angular",
+                "JSP, Struts",
                 "MyBatis",
-                "JSP/Servlet",
-                "Strusts",
                 "PostgreSQL",
+                "Redis",
+                "Keycloak",
                 "Gitlab",
-                "AWS (SSM, EKS, RDS, S3, CloudWatch, ...)"
+                "AWS"
             ],
             "team": "5 members"
         },
@@ -144,8 +145,8 @@
             "endDtYr": 2022,
             "role": "Back-end Engineer",
             "roleDes": [
-                "Maintain features (manual and scheduled archiving process)",
-                "Build CI/CD pipeline, containerize application, deploy the application, operate servers"
+                "Maintain features (manual and scheduled archiving process).",
+                "Build CI/CD pipeline, containerize application, deploy the application, operate servers."
             ],
             "des": "A system archives data from the agent systems which run on both on-premises and cloud to the central data warehouses.",
             "market": "Taiwan",
@@ -155,8 +156,7 @@
                 "MongoDB",
                 "Docker",
                 "Jenkins",
-                "AWS",
-                "Azure"
+                "AWS"
             ],
             "team": "5 members"
         },
@@ -168,9 +168,9 @@
             "endDtYr": 2021,
             "role": "Associate Solution Architect, Back-end Engineer",
             "roleDes": [
-                "Take part in designing system architecture on the application layer",
-                "Integrate EPay services (payment gateway, wallet, notifying, SMS) into application",
-                "Deploy and support system operating"
+                "Take part in designing system architecture on the application layer.",
+                "Integrate EPay services (payment gateway, wallet, notifying, SMS) into application.",
+                "Deploy and support system operating."
             ],
             "des": "Vaccine injection management system especially support for Covid-19 vaccination campaigns.",
             "market": "Vietnam",
@@ -191,20 +191,18 @@
             "endDtYr": 2021,
             "role": "Full-stack Engineer",
             "roleDes": [
-                "Build system infrastructure",
-                "Setup TCP listener for AIS IoT device",
-                "Design and develop almost entire Back-end business services",
-                "Work with Google Map API in-depth to optimize map performance",
-                "Claim requirements of customers"
+                "Design and build up system infrastructure.",
+                "Setup TCP/UDP listener for AIS IoT device.",
+                "Design and develop almost entire Back-end business services.",
+                "Work with Google API in-depth to optimize map performance."
             ],
-            "des": "Monitor ship's voyage in seaports, manage dredgers plans, ...",
+            "des": "A system which monitors the ships's voyage in seaports and manages the dredgers plans.",
             "market": "Vietnam",
             "tech": [
                 "Spring",
                 "Angular",
-                "AIS IoT",
                 "Docker",
-                "Google Map API",
+                "Google APIs",
                 "PostgreSQL"
             ],
             "team": "5 members"
@@ -217,18 +215,17 @@
             "endDtYr": 2021,
             "role": "Back-end Engineer",
             "roleDes": [
-                "Develop module Chat group & ticket statistics dashboard",
-                "Work with Websocket, Zalo API/Webhook, Kafka",
-                "Deploy and monitor Java services on Linux VM"
+                "Develop module Chat group & ticket statistics dashboard.",
+                "Work with Websocket, Zalo API/Webhook, Kafka.",
+                "Deploy and monitor Java services on Linux VM."
             ],
             "des": "Internal application for telecom switchboard operators.",
             "market": "Vietnam",
             "tech": [
                 "Spring",
                 "Angular",
-                "Oracle Database",
+                "Oracle DB",
                 "Redis",
-                "RabbitMQ",
                 "Kafka",
                 "Microservices"
             ],
@@ -242,9 +239,9 @@
             "endDtYr": 2021,
             "role": "Web Developer",
             "roleDes": [
-                "Work with the UI/UX designers to develop dynamic landing pages"
+                "Work with the UI/UX designers to develop web landing pages."
             ],
-            "des": "A series of landing pages running enrollment campaigns, advertising, IT courses, minigames and more.",
+            "des": "A series of landing pages running enrollment campaigns, advertising, IT courses, minigames, and more.",
             "market": "Vietnam",
             "tech": [
                 "PHP",
