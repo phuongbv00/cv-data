@@ -9,11 +9,11 @@
     "address": "Hanoi, Vietnam",
     "github": "https://github.com/phuongbv00",
     "linkedin": "https://www.linkedin.com/in/phuong-bui-b7410a239",
-    "about": "Experienced software engineer with over 4 years of experience in the industry. Proficient in Java, Spring, Angular, AWS, and DevOps technologies. Skilled in leading teams, designing, developing, and deploying robust software solutions to meet client and user needs. Experienced in RESTful API development, cloud-native application design, and containerization technologies. Aspiring to transition into a solution architect role to leverage technical expertise and strategic thinking in designing innovative solutions for complex business challenges.",
+    "about": "Experienced software engineer with 4+ years of experience in the industry. Proficient in Java, Spring, Angular, AWS, and DevOps technologies. Skilled in leading teams, designing, developing, and deploying robust software solutions to meet client and user needs. Experienced in RESTful API development, cloud-native application design, and containerization technologies. Aspiring to transition into a solution architect role to leverage technical expertise and strategic thinking in designing innovative solutions for complex business challenges.",
     "skills": {
         "Languages": "Java, Javascript/Typescript, ...",
         "Frameworks": "Spring, Angular, ...",
-        "Dev/Ops tools": "Git, Maven, Docker, K8s, CI/CD, ...",
+        "Dev/Ops tools": "Git, Maven, Docker, K8s, Gitlab CI/GH Action, ...",
         "Infra/Platforms": "Linux, AWS",
         "Databases": "MySQL, PostgreSQL"
     },
