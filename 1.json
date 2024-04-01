@@ -53,7 +53,7 @@
         {
             "title": "Web Developer",
             "empType": "Full-time",
-            "company": "Miraisoft Vietnam",
+            "company": "Miraisoft",
             "startDtMo": 6,
             "startDtYr": 2019,
             "endDtMo": 10,
@@ -90,6 +90,7 @@
     "projects": [
         {
             "name": "VTP CRM",
+            "company": "Heligate",
             "startDtMo": 9,
             "startDtYr": 2023,
             "endDtMo": null,
@@ -114,6 +115,7 @@
         },
         {
             "name": "N99 MOESH",
+            "company": "FPT Software",
             "startDtMo": 5,
             "startDtYr": 2022,
             "endDtMo": null,
@@ -140,6 +142,7 @@
         },
         {
             "name": "SRMS DATA STORAGE MVP",
+            "company": "FPT Software",
             "startDtMo": 12,
             "startDtYr": 2021,
             "endDtMo": 4,
@@ -163,6 +166,7 @@
         },
         {
             "name": "EVACCINE",
+            "company": "Miraisoft",
             "startDtMo": 6,
             "startDtYr": 2021,
             "endDtMo": 12,
@@ -186,6 +190,7 @@
         },
         {
             "name": "AIS MONITOR",
+            "company": "Miraisoft",
             "startDtMo": 2,
             "startDtYr": 2021,
             "endDtMo": 10,
@@ -210,6 +215,7 @@
         },
         {
             "name": "ECONTACT 2.0",
+            "company": "Miraisoft",
             "startDtMo": 10,
             "startDtYr": 2019,
             "endDtMo": 2,
@@ -234,6 +240,7 @@
         },
         {
             "name": "APTECH LANDING PAGES",
+            "company": "Aptech Aprotrain",
             "startDtMo": 9,
             "startDtYr": 2019,
             "endDtMo": 3,
