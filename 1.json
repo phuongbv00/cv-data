@@ -41,13 +41,23 @@
     ],
     "exp": [
         {
+            "title": "Technical Lead",
+            "empType": "Full-time",
+            "company": "NTL Software",
+            "startDtMo": 7,
+            "startDtYr": 2024,
+            "endDtMo": null,
+            "endDtYr": null,
+            "location": "Hanoi, Vietnam"
+        },
+        {
             "title": "Software Engineer",
             "empType": "Full-time",
             "company": "FPT Software",
             "startDtMo": 12,
             "startDtYr": 2021,
-            "endDtMo": null,
-            "endDtYr": null,
+            "endDtMo": 6,
+            "endDtYr": 2024,
             "location": "Hanoi, Vietnam"
         },
         {
@@ -57,16 +67,6 @@
             "startDtMo": 6,
             "startDtYr": 2019,
             "endDtMo": 10,
-            "endDtYr": 2021,
-            "location": "Hanoi, Vietnam"
-        },
-        {
-            "title": "Web Developer",
-            "empType": "Part-time",
-            "company": "Aptech Aprotrain",
-            "startDtMo": 9,
-            "startDtYr": 2019,
-            "endDtMo": 3,
             "endDtYr": 2021,
             "location": "Hanoi, Vietnam"
         }
@@ -93,8 +93,8 @@
             "company": "Heligate",
             "startDtMo": 9,
             "startDtYr": 2023,
-            "endDtMo": null,
-            "endDtYr": null,
+            "endDtMo": 6,
+            "endDtYr": 2024,
             "role": "Technical Consultant",
             "roleDes": [
                 "Participate in consulting on system architecture design and writing acceptance documents (HLD, Sizing Estimation, Deployment Plan, HA Testing, ...)",
@@ -120,7 +120,7 @@
             "startDtYr": 2022,
             "endDtMo": null,
             "endDtYr": null,
-            "role": "Full-stack Engineer, Team Leader",
+            "role": "Full-stack Engineer, Team Lead",
             "roleDes": [
                 "Take part in the migration phase to migrate the old system to the new technologies stack.",
                 "Work on the service requests from the customer to deliver new features, enhancements, or resolve issues for the system.",
@@ -171,7 +171,7 @@
             "startDtYr": 2021,
             "endDtMo": 12,
             "endDtYr": 2021,
-            "role": "Associate Solution Architect, Back-end Engineer",
+            "role": "Solution Architect, Back-end Developer",
             "roleDes": [
                 "Take part in designing system architecture on the application layer.",
                 "Integrate EPay services (payment gateway, wallet, notifying, SMS) into application.",
@@ -195,7 +195,7 @@
             "startDtYr": 2021,
             "endDtMo": 10,
             "endDtYr": 2021,
-            "role": "Full-stack Engineer",
+            "role": "Full-stack Developer",
             "roleDes": [
                 "Design and build up system infrastructure.",
                 "Setup TCP/UDP listener for AIS IoT device.",
@@ -220,7 +220,7 @@
             "startDtYr": 2019,
             "endDtMo": 2,
             "endDtYr": 2021,
-            "role": "Back-end Engineer",
+            "role": "Back-end Developer",
             "roleDes": [
                 "Develop module Chat group & ticket statistics dashboard.",
                 "Work with Websocket, Zalo API/Webhook, Kafka.",
@@ -237,26 +237,6 @@
                 "Microservices"
             ],
             "team": "12 members"
-        },
-        {
-            "name": "APTECH LANDING PAGES",
-            "company": "Aptech Aprotrain",
-            "startDtMo": 9,
-            "startDtYr": 2019,
-            "endDtMo": 3,
-            "endDtYr": 2021,
-            "role": "Web Developer",
-            "roleDes": [
-                "Work with the UI/UX designers to develop web landing pages."
-            ],
-            "des": "A series of landing pages running enrollment campaigns, advertising, IT courses, minigames, and more.",
-            "market": "Vietnam",
-            "tech": [
-                "PHP",
-                "HTML/CSS/JS",
-                "MySQL"
-            ],
-            "team": "2 members"
         }
     ]
 }
