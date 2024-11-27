@@ -41,7 +41,7 @@
     ],
     "exp": [
         {
-            "title": "Technical Lead",
+            "title": "Tech Lead",
             "empType": "Full-time",
             "company": "NTL Software",
             "startDtMo": 7,
@@ -89,13 +89,39 @@
     ],
     "projects": [
         {
+            "name": "RAG Chatbot",
+            "company": "NTL Software",
+            "startDtMo": 6,
+            "startDtYr": 2024,
+            "endDtMo": null,
+            "endDtYr": null,
+            "role": "Tech Lead",
+            "roleDes": [
+                "Analyze requirements, make solution proposals",
+                "Design system architecture, featured LLDs",
+                "Develop the most important features base on requirements",
+                "Deploy the system and make guidelines",
+                "Review and assist other members",
+                "Support UAT issues"
+            ],
+            "des": "A chatbot service base on LLM (Large Language Model) using RAG (Retrieval Augmented Generation) techniques for a CRM system.",
+            "market": "Japan",
+            "tech": [
+                "Python, FastAPI, LangChain",
+                "ReactJS, NextJS",
+                "PostgreSQL, ChromaDB",
+                "Docker, AWS, OpenAI"
+            ],
+            "team": "3 members"
+        },
+        {
             "name": "VTP CRM",
             "company": "Heligate",
             "startDtMo": 9,
             "startDtYr": 2023,
             "endDtMo": 6,
             "endDtYr": 2024,
-            "role": "Technical Consultant",
+            "role": "Solution Architect, Tech Consultant",
             "roleDes": [
                 "Participate in consulting on system architecture design and writing acceptance documents (HLD, Sizing Estimation, Deployment Plan, HA Testing, ...)",
                 "Develop gateway service functions (routing, authentication, authorization).",
@@ -118,8 +144,8 @@
             "company": "FPT Software",
             "startDtMo": 5,
             "startDtYr": 2022,
-            "endDtMo": null,
-            "endDtYr": null,
+            "endDtMo": 6,
+            "endDtYr": 2024,
             "role": "Full-stack Engineer, Team Lead",
             "roleDes": [
                 "Take part in the migration phase to migrate the old system to the new technologies stack.",
