@@ -106,10 +106,10 @@
             "endDtYr": null,
             "role": "Technical Trainer",
             "roleDes": [
-                "Take part in training for enrich Java courses for intermediate employees",
-                "Take part in building training programs for Java & AWS"
+                "Take part in training enrich Java courses for intermediate employees.",
+                "Take part in building training programs of Java & AWS."
             ],
-            "des": "",
+            "des": "A series of technical training programs in FPT Software Academy.",
             "market": "Vietnam",
             "tech": [
                 "Java, Spring",
