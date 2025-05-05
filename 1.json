@@ -4,7 +4,7 @@
     "career": "Software Engineer\nTechnical Trainer",
     "birthDate": "11/11/2000",
     "gender": "Male",
-    "phone": "(+84)0964603264",
+    "phone": "(+84) 0964603264",
     "mail": "buiphuongaptutc@gmail.com",
     "address": "Hanoi, Vietnam",
     "github": "https://github.com/phuongbv00",
@@ -132,7 +132,7 @@
             "team": null
         },
         {
-            "name": "RAG Chatbot",
+            "name": "Wammy Chatbot",
             "company": "NTL Software",
             "startDtMo": 6,
             "startDtYr": 2024,
@@ -164,7 +164,7 @@
             "startDtYr": 2023,
             "endDtMo": 6,
             "endDtYr": 2024,
-            "role": "Solution Architect, Tech Consultant",
+            "role": "Solution Architect, Technical Consultant",
             "roleDes": [
                 "Participate in consulting on system architecture design and writing acceptance documents (HLD, Sizing Estimation, Deployment Plan, HA Testing, ...)",
                 "Develop gateway service functions (routing, authentication, authorization).",
