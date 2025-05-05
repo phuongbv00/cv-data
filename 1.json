@@ -1,15 +1,15 @@
 {
     "fullName": "Phuong Bui Viet",
     "avatar": null,
-    "career": "Software Engineer",
-    "birthDate": null,
+    "career": "Software Engineer\nTechnical Trainer",
+    "birthDate": "11/11/2000",
     "gender": "Male",
-    "phone": null,
+    "phone": "(+84)0964603264",
     "mail": "buiphuongaptutc@gmail.com",
     "address": "Hanoi, Vietnam",
     "github": "https://github.com/phuongbv00",
     "linkedin": "https://www.linkedin.com/in/phuong-bui-b7410a239",
-    "about": "Experienced software engineer with 5+ years of experience in the industry. Proficient in Java, Spring, Angular, AWS, and DevOps technologies. Skilled in leading teams, designing, developing, and deploying robust software solutions to meet client and user needs. Experienced in RESTful API development, cloud-native application design, and containerization technologies. Aspiring to transition into a solution architect role to leverage technical expertise and strategic thinking in designing innovative solutions for complex business challenges.",
+    "about": "Experienced software engineer with 5+ years of experience in the industry. Proficient in Java, Spring, Angular/ReactJS/VueJS, AWS, and DevOps technologies. Skilled in leading teams, designing, developing, and deploying robust software solutions to meet client and user needs. Experienced in RESTful API development, cloud-native application design, and containerization technologies. Aspiring to transition into a solution architect role to leverage technical expertise and strategic thinking in designing innovative solutions for complex business challenges.",
     "skills": {
         "Programming Languages": "Java, Python, JavaScript/Typescript",
         "Application Frameworks": "Spring, Hibernates, ReactJS/NextJS, Angular",
@@ -22,6 +22,16 @@
     },
     "edu": [
         {
+            "school": "Hanoi University of Science and Technology",
+            "spec": "Information Technology",
+            "startDtMo": 9,
+            "startDtYr": 2024,
+            "endDtMo": null,
+            "endDtYr": null,
+            "degree": "Master's degree",
+            "grade": null
+        },
+        {
             "school": "UNIVERSITY OF TRANSPORT AND COMMUNICATIONS",
             "spec": "Information Technology",
             "startDtMo": 8,
@@ -29,23 +39,33 @@
             "endDtMo": 7,
             "endDtYr": 2022,
             "degree": "Engineer's degree",
-            "grade": "Good"
+            "grade": "Very good (GPA: 3.53/4)"
         },
         {
             "school": "Aptech Aprotrain",
-            "spec": "Computer Software Engineering",
+            "spec": "Software Engineering",
             "startDtMo": 8,
             "startDtYr": 2018,
-            "endDtMo": 12,
+            "endDtMo": 11,
             "endDtYr": 2021,
             "degree": "ADSE - Advanced Diploma In Software Engineering",
-            "grade": "Credit"
+            "grade": "Credit, Valedictorian Award"
         }
     ],
     "exp": [
         {
-            "title": "Tech Lead",
+            "title": "Technical Trainer",
             "empType": "Full-time",
+            "company": "FPT Software Academy",
+            "startDtMo": 2,
+            "startDtYr": 2025,
+            "endDtMo": null,
+            "endDtYr": null,
+            "location": "Hanoi, Vietnam"
+        },
+        {
+            "title": "Technical Lead/Consultant",
+            "empType": "Contract",
             "company": "NTL Software",
             "startDtMo": 7,
             "startDtYr": 2024,
@@ -92,13 +112,33 @@
     ],
     "projects": [
         {
+            "name": "FSA Training Programs",
+            "company": "FPT Software Academy",
+            "startDtMo": 2,
+            "startDtYr": 2025,
+            "endDtMo": null,
+            "endDtYr": null,
+            "role": "Technical Trainer",
+            "roleDes": [
+                "Take part in training for enrich Java courses for intermediate employees",
+                "Take part in building training programs for Java & AWS"
+            ],
+            "des": "",
+            "market": "Vietnam",
+            "tech": [
+                "Java, Spring",
+                "AWS"
+            ],
+            "team": null
+        },
+        {
             "name": "RAG Chatbot",
             "company": "NTL Software",
             "startDtMo": 6,
             "startDtYr": 2024,
-            "endDtMo": null,
-            "endDtYr": null,
-            "role": "Tech Lead",
+            "endDtMo": 1,
+            "endDtYr": 2025,
+            "role": "Technical Lead",
             "roleDes": [
                 "Analyze requirements, make solution proposals",
                 "Design system architecture, featured LLDs",
