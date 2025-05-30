@@ -1,5 +1,5 @@
 {
-    "fullName": "Giang Nguyen Huong",
+    "fullName": "Giang Nguyen",
     "avatar": "",
     "career": "Full-stack PHP Developer",
     "birthDate": "03/04/1996",
@@ -11,10 +11,10 @@
     "linkedin": "https://www.linkedin.com/in/giang-nguyen-533a7515b/",
     "about": "Full-stack PHP Developer with over 5 years of experience in developing web systems using Laravel, combined with front-end development using Vue.js and AngularJS. Proficient in business analysis, system design, and delivering effective technical solutions. Capable of independently proposing technical ideas, performing system analysis and design, and implementing full backend/frontend development for new projects.",
     "skills": {
-        "Language": "PHP, Javascript",
-        "Frameworks": "Laravel, VueJS/NuxtJS, AngularJS",
+        "Programming Languages": "PHP, Javascript",
+        "Application Frameworks": "Laravel, VueJS/NuxtJS, AngularJS",
         "Databases": "MySQL, MongoDB",
-        "Dev tools": "WSL, Git, Composer, NPM, Jetbrains IDE, ..."
+        "Development tools": "WSL, Git, Composer, NPM, Jetbrains IDE, ..."
     },
     "edu": [
         {
