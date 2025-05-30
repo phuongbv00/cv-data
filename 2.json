@@ -2,7 +2,7 @@
     "fullName": "Giang Nguyen Huong",
     "avatar": "",
     "career": "PHP Developer",
-    "birthDate": null,
+    "birthDate": "03/04/1996",
     "gender": "Female",
     "phone": null,
     "mail": "nguyengiangsc96@gmail.com",
@@ -10,9 +10,9 @@
     "github": "",
     "skills": {
         "Language": "PHP, Javascript",
-        "Frameworks": "Laravel, VueJS/NuxtJS",
-        "Databases": "MySQL, PostgreSQL",
-        "Dev tools": "Git, Composer, NPM, Jetbrains IDE, ..."
+        "Frameworks": "Laravel, VueJS/NuxtJS, AngularJS",
+        "Databases": "MySQL, MongoDB",
+        "Dev tools": "WSL, Git, Composer, NPM, Jetbrains IDE, ..."
     },
     "edu": [
         {
@@ -27,7 +27,7 @@
     ],
     "exp": [
         {
-            "company": "Mirai Vietnam Software",
+            "company": "MIRAI VIETNAM SOFTWARE JOINT STOCK COMPANY",
             "empType": "Full-time",
             "title": "Software Developer",
             "startDtMo": 11,
@@ -39,13 +39,18 @@
     ],
     "projects": [
         {
-            "name": "pac system",
+            "name": "Shachihata Cloud System",
             "startDtMo": 6,
             "startDtYr": 2020,
             "endDtMo": null,
             "endDtYr": null,
-            "role": "Full-stack Developer",
-            "des": "",
+            "role": "From Full-stack Developer → Key Member → Module Lead",
+            "roleDes": [
+                "Developed and maintained core modules including digital signature workflows, document management, and approval processes.",
+                "Designed architecture for key modules to ensure scalability and high performance.",
+                "Mentored team members, conducted code reviews, and coordinated with cross-functional teams to deliver high-quality features on time."
+            ],
+            "des": "Electronic Document Signing and Management System – SaaS Platform for Enterprises. Contributed to the development of a large-scale system focused on electronic document signing. The platform allows users to upload documents, digitally sign them, and send for approval. It supports long-term document storage, full-text search, and follows strict security standards. The system also includes HRM features such as employee management, attendance tracking, leave request/approval, and work scheduling. Designed as a multi-tenant SaaS solution, the system serves multiple independent organizations.",
             "market": "Japan",
             "tech": [
                 "Laravel",
@@ -54,23 +59,7 @@
                 "React Native",
                 "Java"
             ],
-            "team": "34 members"
-        },
-        {
-            "name": "Shachihata Cloud Personal",
-            "startDtMo": 5,
-            "startDtYr": 2022,
-            "endDtMo": null,
-            "endDtYr": null,
-            "role": "Team Leader",
-            "des": "",
-            "market": "Japan",
-            "tech": [
-                "Laravel",
-                "VueJS",
-                "MySQL"
-            ],
-            "team": "8 members"
+            "team": "34 - 50 members"
         },
         {
             "name": "Ebi iot",
@@ -79,7 +68,7 @@
             "endDtMo": null,
             "endDtYr": 2023,
             "role": "Team leader",
-            "des": "",
+            "des": "Build new. Developed a smart aquaculture system using IoT sensors and automated controls. Enabled remote monitoring, early warnings, and improved farming efficiency.",
             "market": "Japan",
             "tech": [
                 "Laravel",
@@ -89,64 +78,24 @@
             "team": "6 members"
         },
         {
-            "name": "NFT",
-            "startDtMo": 10,
-            "startDtYr": 2021,
-            "endDtMo": 12,
-            "endDtYr": 2022,
-            "role": "Team leader",
-            "des": "",
-            "market": "Japan",
-            "tech": [
-                "Laravel",
-                "VueJS",
-                "MySQL"
-            ],
-            "team": "6 members"
-        },
-        {
-            "name": "imprint",
-            "startDtMo": 6,
-            "startDtYr": 2021,
-            "endDtMo": 7,
-            "endDtYr": 2021,
-            "role": "Full-stack Developer",
-            "des": "",
-            "market": "Japan",
-            "tech": [
-                "Laravel",
-                "VueJS",
-                "AngularJS"
-            ],
-            "team": "5 members"
-        },
-        {
-            "name": "form issuance",
-            "role": "Full-stack Developer",
-            "des": "",
-            "market": "Japan",
-            "tech": [
-                "Laravel",
-                "VueJS",
-                "AngularJS"
-            ],
-            "team": "10 members"
-        },
-        {
-            "name": "ebi iot",
+            "name": "Ebi iot",
             "startDtMo": 10,
             "startDtYr": 2020,
             "endDtMo": 12,
             "endDtYr": 2020,
             "role": "Full-stack Developer",
-            "des": "",
+            "roleDes": [
+                "Edit User Interface as required",
+                "Add some small tasks for the statistical reporting function"
+            ],
+            "des": "Maintain mart Fish Farming System with IoT integration",
             "market": "Japan",
             "tech": [
                 "Laravel",
                 "VueJS",
                 "IoT"
             ],
-            "team": "7 members"
+            "team": "2 members"
         }
     ]
 }
