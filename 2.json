@@ -1,14 +1,14 @@
 {
     "fullName": "Giang Nguyen Huong",
     "avatar": "",
-    "career": "PHP Developer",
+    "career": "Full-stack PHP Developer",
     "birthDate": "03/04/1996",
     "gender": "Female",
     "phone": null,
     "mail": "nguyengiangsc96@gmail.com",
     "address": "Hanoi, Vietnam",
     "github": "",
-    "about": "PHP Developer with over 5 years of experience in developing web systems using Laravel, combined with front-end development in Vue.js and AngularJS. Skilled in business analysis, system design, and providing effective technical solutions. Capable of independently conceptualizing and implementing complete coding solutions (backend/frontend) for new projects.",
+    "about": "Full-stack PHP Developer with over 5 years of experience in developing web systems using Laravel, combined with front-end development in Vue.js and AngularJS. Skilled in business analysis, system design, and providing effective technical solutions. Capable of independently conceptualizing and implementing complete coding solutions (backend/frontend) for new projects.",
     "skills": {
         "Language": "PHP, Javascript",
         "Frameworks": "Laravel, VueJS/NuxtJS, AngularJS",
@@ -28,7 +28,7 @@
     ],
     "exp": [
         {
-            "company": "MIRAI VIETNAM SOFTWARE JOINT STOCK COMPANY",
+            "company": "MIRAI VIETNAM SOFTWARE JSC",
             "empType": "Full-time",
             "title": "Software Developer",
             "startDtMo": 11,
@@ -40,12 +40,12 @@
     ],
     "projects": [
         {
-            "name": "Shachihata Cloud System",
+            "name": "Shachihata Cloud",
             "startDtMo": 6,
             "startDtYr": 2020,
             "endDtMo": null,
             "endDtYr": null,
-            "role": "From Full-stack Developer → Key Member → Module Lead",
+            "role": "Full-stack Developer, Module Lead",
             "roleDes": [
                 "Developed and maintained core modules including digital signature workflows, document management, and approval processes.",
                 "Designed architecture for key modules to ensure scalability and high performance.",
@@ -58,18 +58,26 @@
                 "VueJS/NuxtJS",
                 "AngularJS",
                 "React Native",
-                "Java"
+                "Java",
+                "MySQL",
+                "MongoDB",
+                "Rabit MQ",
+                "supervisor"
             ],
             "team": "34 - 50 members"
         },
         {
             "name": "Ebi iot",
             "startDtMo": 11,
-            "startDtYr": 2022,
-            "endDtMo": null,
-            "endDtYr": 2023,
-            "role": "Team leader",
-            "des": "Build new. Developed a smart aquaculture system using IoT sensors and automated controls. Enabled remote monitoring, early warnings, and improved farming efficiency.",
+            "startDtYr": 2019,
+            "endDtMo": 5,
+            "endDtYr": 2020,
+            "role": "Full-stack Developer",
+            "roleDes": [
+                "Responsible for developing and managing the backend system that collects, stores, and processes sensor data (e.g., temperature, pH, dissolved oxygen) from IoT devices.",
+                "Built features for real-time data analytics, statistical reporting, and visual dashboards to help users monitor fish farming conditions and make timely decisions."
+            ],
+            "des": "Build new and maintain a smart Fish Foaming System using IoT sensors and automated controls. Enabled remote monitoring, early warnings, and improved farming efficiency.",
             "market": "Japan",
             "tech": [
                 "Laravel",
@@ -77,26 +85,6 @@
                 "MySQL"
             ],
             "team": "6 members"
-        },
-        {
-            "name": "Ebi iot",
-            "startDtMo": 10,
-            "startDtYr": 2020,
-            "endDtMo": 12,
-            "endDtYr": 2020,
-            "role": "Full-stack Developer",
-            "roleDes": [
-                "Edit User Interface as required",
-                "Add some small tasks for the statistical reporting function"
-            ],
-            "des": "Maintain mart Fish Farming System with IoT integration",
-            "market": "Japan",
-            "tech": [
-                "Laravel",
-                "VueJS",
-                "IoT"
-            ],
-            "team": "2 members"
         }
     ]
 }
