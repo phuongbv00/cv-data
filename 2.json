@@ -61,8 +61,8 @@
                 "Java",
                 "MySQL",
                 "MongoDB",
-                "Rabit MQ",
-                "supervisor"
+                "RabbitMQ",
+                "Supervisor"
             ],
             "team": "34 - 50 members"
         },
